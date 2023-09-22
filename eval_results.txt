@@ -1,0 +1,13 @@
+
+sentence,model prediction, ground truth
+만화가 10000000000000000배 훨씬 나아,1,0
+sentence,model prediction, ground truth
+난 진짜 재밌었는데... 소설을 보고 봐서그런가,1,1
+sentence,model prediction, ground truth
+날개없는 추락의 시작점.,0,0
+sentence,model prediction, ground truth
+매우굿이엇슴,1,1
+sentence,model prediction, ground truth
+그냥 아 아아10자이상,0,1
+sentence,model prediction, ground truth
+와 티비서 해주길래 봤는데 티비로도 도저히 볼수가 없더라 평점 디 ⁇  거려 보니 평점이 2점 이었다 검색도 잘안 ⁇  근래애 나온 좋은 친구들에 밀려서 ᄃᄃᄃ,0,0
